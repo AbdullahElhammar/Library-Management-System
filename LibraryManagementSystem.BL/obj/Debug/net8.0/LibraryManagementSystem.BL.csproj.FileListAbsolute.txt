@@ -1,0 +1,15 @@
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\bin\Debug\net8.0\LibraryManagementSystem.BL.deps.json
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\bin\Debug\net8.0\LibraryManagementSystem.BL.dll
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\bin\Debug\net8.0\LibraryManagementSystem.BL.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\bin\Debug\net8.0\LibraryManagementSystem.DAL.dll
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\bin\Debug\net8.0\LibraryManagementSystem.DAL.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\obj\Debug\net8.0\LibraryManagementSystem.BL.csproj.AssemblyReference.cache
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\obj\Debug\net8.0\LibraryManagementSystem.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\obj\Debug\net8.0\LibraryManagementSystem.BL.AssemblyInfoInputs.cache
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\obj\Debug\net8.0\LibraryManagementSystem.BL.AssemblyInfo.cs
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\obj\Debug\net8.0\LibraryManagementSystem.BL.csproj.CoreCompileInputs.cache
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\obj\Debug\net8.0\LibraryM.92F7EAD2.Up2Date
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\obj\Debug\net8.0\LibraryManagementSystem.BL.dll
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\obj\Debug\net8.0\refint\LibraryManagementSystem.BL.dll
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\obj\Debug\net8.0\LibraryManagementSystem.BL.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem.BL\obj\Debug\net8.0\ref\LibraryManagementSystem.BL.dll

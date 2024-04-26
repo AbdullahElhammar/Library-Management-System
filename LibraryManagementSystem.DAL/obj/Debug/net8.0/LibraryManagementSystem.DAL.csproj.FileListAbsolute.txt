@@ -1,0 +1,14 @@
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\bin\Debug\net8.0\LibraryManagementSystem.DAL.deps.json
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\bin\Debug\net8.0\LibraryManagementSystem.DAL.runtimeconfig.json
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\bin\Debug\net8.0\LibraryManagementSystem.DAL.dll
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\bin\Debug\net8.0\LibraryManagementSystem.DAL.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Debug\net8.0\LibraryManagementSystem.DAL.csproj.AssemblyReference.cache
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Debug\net8.0\LibraryManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Debug\net8.0\LibraryManagementSystem.DAL.AssemblyInfoInputs.cache
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Debug\net8.0\LibraryManagementSystem.DAL.AssemblyInfo.cs
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Debug\net8.0\LibraryManagementSystem.DAL.csproj.CoreCompileInputs.cache
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Debug\net8.0\LibraryManagementSystem.DAL.dll
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Debug\net8.0\refint\LibraryManagementSystem.DAL.dll
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Debug\net8.0\LibraryManagementSystem.DAL.pdb
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Debug\net8.0\LibraryManagementSystem.DAL.genruntimeconfig.cache
+D:\LibraryManagementSystem\LibraryManagementSystem.DAL\obj\Debug\net8.0\ref\LibraryManagementSystem.DAL.dll

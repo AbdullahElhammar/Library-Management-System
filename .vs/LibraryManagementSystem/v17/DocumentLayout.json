@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.bl\\managers\\book\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|solutionrelative:librarymanagementsystem.bl\\managers\\book\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E176398-AE29-4A61-AD72-52B21F83CABD}|LibraryManagementSystem.APIs\\LibraryManagementSystem.APIs.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.apis\\controllers\\patroncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E176398-AE29-4A61-AD72-52B21F83CABD}|LibraryManagementSystem.APIs\\LibraryManagementSystem.APIs.csproj|solutionrelative:librarymanagementsystem.apis\\controllers\\patroncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E176398-AE29-4A61-AD72-52B21F83CABD}|LibraryManagementSystem.APIs\\LibraryManagementSystem.APIs.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.apis\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E176398-AE29-4A61-AD72-52B21F83CABD}|LibraryManagementSystem.APIs\\LibraryManagementSystem.APIs.csproj|solutionrelative:librarymanagementsystem.apis\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.bl\\managers\\book\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|solutionrelative:librarymanagementsystem.bl\\managers\\book\\ibookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.bl\\managers\\patron\\patronmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|solutionrelative:librarymanagementsystem.bl\\managers\\patron\\patronmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.bl\\managers\\patron\\ipatronmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|solutionrelative:librarymanagementsystem.bl\\managers\\patron\\ipatronmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB3943-756F-4A3F-A965-A67EE7B99E5B}|LibraryManagementSystem.DAL\\LibraryManagementSystem.DAL.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.dal\\repos\\patrons\\patronrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB3943-756F-4A3F-A965-A67EE7B99E5B}|LibraryManagementSystem.DAL\\LibraryManagementSystem.DAL.csproj|solutionrelative:librarymanagementsystem.dal\\repos\\patrons\\patronrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E176398-AE29-4A61-AD72-52B21F83CABD}|LibraryManagementSystem.APIs\\LibraryManagementSystem.APIs.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E176398-AE29-4A61-AD72-52B21F83CABD}|LibraryManagementSystem.APIs\\LibraryManagementSystem.APIs.csproj|solutionrelative:librarymanagementsystem.apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB3943-756F-4A3F-A965-A67EE7B99E5B}|LibraryManagementSystem.DAL\\LibraryManagementSystem.DAL.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.dal\\data\\context\\systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB3943-756F-4A3F-A965-A67EE7B99E5B}|LibraryManagementSystem.DAL\\LibraryManagementSystem.DAL.csproj|solutionrelative:librarymanagementsystem.dal\\data\\context\\systemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.bl\\managers\\borrowingrecord\\borrowingrecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|solutionrelative:librarymanagementsystem.bl\\managers\\borrowingrecord\\borrowingrecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.bl\\managers\\borrowingrecord\\iborrowingrecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAED2B4-92E2-4435-9C01-9BAFBBE1D717}|LibraryManagementSystem.BL\\LibraryManagementSystem.BL.csproj|solutionrelative:librarymanagementsystem.bl\\managers\\borrowingrecord\\iborrowingrecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB3943-756F-4A3F-A965-A67EE7B99E5B}|LibraryManagementSystem.DAL\\LibraryManagementSystem.DAL.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.dal\\repos\\borrowingrecords\\borrrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB3943-756F-4A3F-A965-A67EE7B99E5B}|LibraryManagementSystem.DAL\\LibraryManagementSystem.DAL.csproj|solutionrelative:librarymanagementsystem.dal\\repos\\borrowingrecords\\borrrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB3943-756F-4A3F-A965-A67EE7B99E5B}|LibraryManagementSystem.DAL\\LibraryManagementSystem.DAL.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.dal\\repos\\borrowingrecords\\iborrrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB3943-756F-4A3F-A965-A67EE7B99E5B}|LibraryManagementSystem.DAL\\LibraryManagementSystem.DAL.csproj|solutionrelative:librarymanagementsystem.dal\\repos\\borrowingrecords\\iborrrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E176398-AE29-4A61-AD72-52B21F83CABD}|LibraryManagementSystem.APIs\\LibraryManagementSystem.APIs.csproj|d:\\librarymanagementsystem\\librarymanagementsystem.apis\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E176398-AE29-4A61-AD72-52B21F83CABD}|LibraryManagementSystem.APIs\\LibraryManagementSystem.APIs.csproj|solutionrelative:librarymanagementsystem.apis\\controllers\\borrowingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBookManager.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\Book\\IBookManager.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.BL\\Managers\\Book\\IBookManager.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\Book\\IBookManager.cs",
+              "RelativeToolTip": "LibraryManagementSystem.BL\\Managers\\Book\\IBookManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:32:01.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPatronManager.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\Patron\\IPatronManager.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.BL\\Managers\\Patron\\IPatronManager.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\Patron\\IPatronManager.cs",
+              "RelativeToolTip": "LibraryManagementSystem.BL\\Managers\\Patron\\IPatronManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:22:28.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatronRepo.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.DAL\\Repos\\Patrons\\PatronRepo.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.DAL\\Repos\\Patrons\\PatronRepo.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.DAL\\Repos\\Patrons\\PatronRepo.cs",
+              "RelativeToolTip": "LibraryManagementSystem.DAL\\Repos\\Patrons\\PatronRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:10:39.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBorrowingRecordManager.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\BorrowingRecord\\IBorrowingRecordManager.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.BL\\Managers\\BorrowingRecord\\IBorrowingRecordManager.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\BorrowingRecord\\IBorrowingRecordManager.cs",
+              "RelativeToolTip": "LibraryManagementSystem.BL\\Managers\\BorrowingRecord\\IBorrowingRecordManager.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:49:51.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BorrRecordRepo.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.DAL\\Repos\\BorrowingRecords\\BorrRecordRepo.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.DAL\\Repos\\BorrowingRecords\\BorrRecordRepo.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.DAL\\Repos\\BorrowingRecords\\BorrRecordRepo.cs",
+              "RelativeToolTip": "LibraryManagementSystem.DAL\\Repos\\BorrowingRecords\\BorrRecordRepo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:53:45.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.APIs\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.APIs\\Program.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.APIs\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem.APIs\\Program.cs",
+              "ViewState": "AQIAABgAAAAAMzMzMzMVwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:53:36.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatronController.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.APIs\\Controllers\\PatronController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.APIs\\Controllers\\PatronController.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.APIs\\Controllers\\PatronController.cs",
+              "RelativeToolTip": "LibraryManagementSystem.APIs\\Controllers\\PatronController.cs",
+              "ViewState": "AQIAACwAAABAMzMzMzMhwD0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:53:30.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.APIs\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.APIs\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.APIs\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryManagementSystem.APIs\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAC0AAABAZmZmZmYuwDoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:53:04.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatronManager.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\Patron\\PatronManager.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.BL\\Managers\\Patron\\PatronManager.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\Patron\\PatronManager.cs",
+              "RelativeToolTip": "LibraryManagementSystem.BL\\Managers\\Patron\\PatronManager.cs",
+              "ViewState": "AQIAABIAAABAAAAAAAAYwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:52:44.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\Book\\BookManager.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.BL\\Managers\\Book\\BookManager.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\Book\\BookManager.cs",
+              "RelativeToolTip": "LibraryManagementSystem.BL\\Managers\\Book\\BookManager.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAmwCEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:52:17.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBorrRecordRepo.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.DAL\\Repos\\BorrowingRecords\\IBorrRecordRepo.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.DAL\\Repos\\BorrowingRecords\\IBorrRecordRepo.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.DAL\\Repos\\BorrowingRecords\\IBorrRecordRepo.cs",
+              "RelativeToolTip": "LibraryManagementSystem.DAL\\Repos\\BorrowingRecords\\IBorrRecordRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:52:07.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SystemContext.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.DAL\\Data\\Context\\SystemContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.DAL\\Data\\Context\\SystemContext.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.DAL\\Data\\Context\\SystemContext.cs",
+              "RelativeToolTip": "LibraryManagementSystem.DAL\\Data\\Context\\SystemContext.cs",
+              "ViewState": "AQIAAAcAAABAMzMzMzMbwBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:51:53.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowingRecordManager.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\BorrowingRecord\\BorrowingRecordManager.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.BL\\Managers\\BorrowingRecord\\BorrowingRecordManager.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.BL\\Managers\\BorrowingRecord\\BorrowingRecordManager.cs",
+              "RelativeToolTip": "LibraryManagementSystem.BL\\Managers\\BorrowingRecord\\BorrowingRecordManager.cs",
+              "ViewState": "AQIAABQAAACAmZmZmZkpwAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:48:32.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BorrowingController.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem.APIs\\Controllers\\BorrowingController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem.APIs\\Controllers\\BorrowingController.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem.APIs\\Controllers\\BorrowingController.cs",
+              "RelativeToolTip": "LibraryManagementSystem.APIs\\Controllers\\BorrowingController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:27:50.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
